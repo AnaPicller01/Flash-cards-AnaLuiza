@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Cílios postiços',
-'C0mo aplicar o cílios postiços corretamente?',
+'Como aplicar o cílios postiços corretamente?',
 'Corte um cílios ao meio, você terá um par, passe a cola para cílios e deixe secar até ver que ela está azulada, após alique no canto externo do seu olho, pegue uma pinça ou com os dedos mesmo junta os cílios naturais com os sintéticos.'
 )
 
